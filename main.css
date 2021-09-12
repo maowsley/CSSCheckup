@@ -1,0 +1,26 @@
+/* rule-set #1: Everything within a lash tech tools class will have a rgb (248,114, 136) background. */
+.lash tech tools {
+    background-color: rgb(248, 114, 136);
+}
+
+/* rule-set #2 */
+#two-four weeks{
+    color:rebeccapurple
+}
+
+/* rule-set #3 */
+#LBL Academy{
+    color:royalblue
+}
+
+/* 4 */
+#tools{
+    height: 30px;
+    background: lightblue;
+        border: 4px solid purple
+        margin: 0px 0px 0px 0px 
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif
+}
